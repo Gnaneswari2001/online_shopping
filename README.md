@@ -1,6 +1,6 @@
 # online_shopping
 <h1>FUTURE READY TALENT PROJECT</h1>
-<p>This is my future ready talent project</p>
+<p>This is my future ready talent project.</p>
 <h1>ONLINE SHOPPING</h1>
 
 <p>This is a static website developed using HTML,CSS languages and w3 framework.The primary motto is to promote online shopping that reduces human work.<p>
