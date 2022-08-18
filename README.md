@@ -9,3 +9,5 @@
 
 <p>The website deals about online shopping which helps us to place order to buy many western wear such as jeans,t-shirt,leggings etc.We just need to provide some details such as
 our name,email and the things which we want to order.We need to mention the delivery address so that they could reach us easily and then we can place the order.</p>
+
+<p>The link to my website is https://brave-meadow-0f02ee710.1.azurestaticapps.net</p>
